@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Leite",
+    "price": 0.62,
+    "brand": "Continente",
+    "description": "Leite Meio Gordo"
+  },
+  {
+    "name": "Pasta de Dentes",
+    "price": 2.25,
+    "description": "Colgate"
+  },
+  {
+    "name": "Sumo Laranga",
+    "price": 1.1,
+    "brand": "Compal",
+    "description": "Compal Laranja"
+  },
+  {
+    "name": "Pão",
+    "price": 0.35,
+    "description": "Paozinho"
+  }
+]
